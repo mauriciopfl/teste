@@ -1,0 +1,7 @@
+{
+  "name": "moneycontrol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

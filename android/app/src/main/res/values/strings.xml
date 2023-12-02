@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">moneycontrol</string>
+    <string name="title_activity_main">moneycontrol</string>
+    <string name="package_name">com.moneycontrol</string>
+    <string name="custom_url_scheme">com.moneycontrol</string>
+</resources>
